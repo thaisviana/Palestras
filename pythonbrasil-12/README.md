@@ -58,7 +58,7 @@ Escola de Dados
 - **[Descobrindo as menores distâncias entre diversas cidades com Python e GLPK](descobrindo_as_menores_distancias_entre_diversas_cidades_com_python)** - Betania Campello
 - **[Pyladies e Django Girls ajudando a tornar a comunidade Python mais diversa e mais inclusiva](pyladies_e_django_girls)** - Pyladies Brasil
 - **Real Time Django usando Redis e Websockets** - Stamatios Stamou Jr
-- **AlgPedia - Uma enciclopédia colaborativa de algoritmos e implementações** - Thais Viana
+- **[AlgPedia - Uma enciclopédia colaborativa de algoritmos e implementações](http://pt.slideshare.net/ThaisViana6/pybr12-algpedia)** - Thais Viana
 - **[Performance Analysis 101](performance_analysis_101)** - Tarsis Azevedo
 - **PyRobô: Automatização com Python** - Barbara Moraes Vicente
 - **NES Hacks** - Guto Maia
